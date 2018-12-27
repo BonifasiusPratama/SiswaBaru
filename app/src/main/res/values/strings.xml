@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Siswa Baru</string>
+    <string name="tambah">Add</string>
+    <string name="input">input</string>
+    <string name="detail">detail</string>
+    <string name="update">update</string>
+</resources>
